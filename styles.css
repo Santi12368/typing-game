@@ -27,7 +27,6 @@ body {
   min-height: 60vh;
   max-height: 95vh;
   width: 80vw;
-  background: var(--bs-secondary-bg);
   border-width: 2px;
   border-style: solid;
   border-radius: 50px;
